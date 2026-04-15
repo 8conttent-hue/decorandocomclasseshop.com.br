@@ -1,0 +1,53 @@
+{
+  "name": "DECORANDOCOMCLASSESHOP",
+  "slug": "decorandocomclasseshop.com.br",
+  "description": "Olá, somos o maior comércio eletrônico de decoração da região sul do Brasil. Nossa empresa está no mercado há mais de 10 anos e nos orgulhamos de nossa ampla seleção de produtos de alta qualidade e atendimento ao cliente que é inigualável. Nossa equipe se dedica a trazer a você a melhor experiência de compra possível, portanto, não hesite em nos contatar se você tiver alguma dúvida ou comentário. Obrigado por escolher nossa loja!",
+  "url": "https://decorandocomclasseshop.com.br",
+  "niche": "Casa e Decoração",
+  "keywords": "Ola somos o maior comercio eletronico de decoracao da regiao sul do",
+  "email": "contato@decorandocomclasseshop.com.br",
+  "palette": "sunset",
+  "colors": {
+    "primary": "#f97316",
+    "accent": "#c2410c",
+    "dark": "#431407"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-C",
+    "hero": "Hero-H",
+    "features": "Features-H",
+    "about": "About-B",
+    "posts": "Posts-J",
+    "footer": "Footer-F",
+    "sobre": "Sobre-G",
+    "contato": "Contato-B"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o DECORANDOCOMCLASSESHOP"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "A DECORANDOCOMCLASSESHOP é uma referência em comércio eletrônico de decoração na região sul do Brasil. Com mais de 10 anos de experiência, buscamos sempre inovar e oferecer as melhores opções para transformar seu lar em um espaço cheio de estilo e personalidade."
+  },
+  "content": "Nossa missão é proporcionar uma experiência de compra incrível, trazendo produtos de decoração que atendam às necessidades e desejos dos nossos clientes. Acreditamos que cada espaço pode ser único e especial, e estamos aqui para ajudar você a alcançá-lo.",
+  "mission": "Transformar sua casa em um lar cheio de elegância e conforto através de produtos de decoração de qualidade.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
